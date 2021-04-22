@@ -11,13 +11,12 @@ A complete end to end machine learning project +  production + deployment for fl
   * [Installation](#installation)
   * [Deployement on Heroku](#deployement-on-heroku)
   * [Directory Tree](#directory-tree)
-  * [Bug / Feature Request](#bug---feature-request)
   * [Future scope of project](#future-scope)
 
 
 ## Demo
 
-<img src="./frontend.png" alt="Front End of the App">
+<img src="frontend.png" alt="Front End of the App">
 
 
 ## Overview
