@@ -16,7 +16,7 @@ A complete end to end machine learning project +  production + deployment for fl
 
 ## Demo
 
-<img src="frontend.png" alt="Front End of the App">
+<img src="frontend.PNG" alt="Front End of the App">
 
 
 ## Overview
