@@ -7,7 +7,6 @@ A complete end to end machine learning project +  production + deployment for fl
 ## Table of Content
   * [Demo](#demo)
   * [Overview](#overview)
-  * [Motivation](#motivation)
   * [Installation](#installation)
   * [Deployement on Heroku](#deployement-on-heroku)
   * [Directory Tree](#directory-tree)
